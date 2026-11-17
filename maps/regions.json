@@ -7,5 +7,33 @@
       "size_mb": 0,
       "sha256": ""
     }
+    {
+      "id": "moscow-tula",
+      "name": "Московская и Тульская области",
+      "url": "https://github.com/SHMNRUS/MT-navi/releases/download/maps-1/moscow-tula.pmtiles",
+      "size_mb": 423,
+      "sha256": "0f7f02fab7ef6dd9df205934545a75c4ff5fd84687bda6925ac4477431eaddeb"
+    },
+    {
+      "id": "voronezh",
+      "name": "Воронежская область",
+      "url": "https://github.com/SHMNRUS/MT-navi/releases/download/maps-1/voronezh.pmtiles",
+      "size_mb": 110,
+      "sha256": "9349e076bd530eb2e5cde6d6665270f6d90ae4a0b9bba71f871001480bd13b87"
+    },
+    {
+      "id": "south",
+      "name": "Ростовская область, Краснодарский край, Адыгея",
+      "url": "https://github.com/SHMNRUS/MT-navi/releases/download/maps-1/south.pmtiles",
+      "size_mb": 298,
+      "sha256": "096ae3667d694e898b80dad78cf73ef90d6b76a84957f3c9758f7110e9722df0"
+    },
+    {
+      "id": "north-caucasus",
+      "name": "Ставропольский край, Карачаево-Черкесия, Кабардино-Балкария",
+      "url": "https://github.com/SHMNRUS/MT-navi/releases/download/maps-1/north-caucasus.pmtiles",
+      "size_mb": 180,
+      "sha256": "34ec48f173e8523f20cc8960000b7c07d8ce4c0e1dd9c9ac2119a83474c37433"
+    }
   ]
 }
