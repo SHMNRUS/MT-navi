@@ -12,8 +12,8 @@
 Для Windows есть `build_regions.bat`: кладёте рядом с `planetiler.jar` и скачанными `.osm.pbf`, запускаете. Он собирает все регионы и пропускает те, для которых нет настоящего исходного файла (planetiler при `--download` и отсутствующем файле молча берёт данные Монако).
 
 ## 2. Выложить файл
-Релиз в этом репозитории: Releases → Draft a new release → метка `maps-1` → приложить `moscow.pmtiles` (до 2 ГБ на файл).
-Ссылка будет вида `https://github.com/SHMNRUS/MT-navi/releases/download/maps-1/moscow.pmtiles`.
+Релиз в этом репозитории: Releases → Draft a new release → метка `map-1` → приложить `moscow.pmtiles` (до 2 ГБ на файл).
+Ссылка будет вида `https://github.com/SHMNRUS/MT-navi/releases/download/map-1/moscow.pmtiles`.
 Репозиторий должен быть публичным: загрузчик Android не авторизуется, у приватного репозитория ссылки не откроются.
 
 ## 3. Добавить в список
