@@ -1,3 +1,11 @@
 {
-  "regions": []
+  "regions": [
+    {
+      "id": "north-caucasus",
+      "name": "Северный Кавказ (Ставропольский край, Карачаево-Черкесия, Кабардино-Балкария, Северная Осетия, Ингушетия, Чечня, Дагестан)",
+      "url": "https://github.com/SHMNRUS/MT-navi/releases/download/maps-1/north-caucasus.pmtiles",
+      "size_mb": 0,
+      "sha256": ""
+    }
+  ]
 }
